@@ -1,0 +1,24 @@
+{
+    "spec": 1,
+    "name": "Doto",
+    "previewText": "A square font, because that´s cool!",
+    "main": {
+        "Doto-Thin": "https://github.com/ranieeere/Doto/blob/main/Doto-thin.ttf?raw=1",
+        "Doto-ExtraLight": "https://github.com/ranieeere/Doto/blob/main/Doto-ExtraLight.ttf?raw=1",
+        "Doto-Light": "https://github.com/ranieeere/Doto/blob/main/Doto-Light.ttf?raw=1",
+        "Doto-Regular": "https://github.com/ranieeere/Doto/blob/main/Doto-Regular.ttf?raw=1",
+        "Doto-Medium": "https://github.com/ranieeere/Doto/blob/main/Doto-Medium.ttf?raw=1",
+        "Doto-SemiBold": "https://github.com/ranieeere/Doto/blob/main/Doto-SemiBold.ttf?raw=1",
+        "Doto-Bold": "https://github.com/ranieeere/Doto/blob/main/Doto-Bold.ttf?raw=1",
+        "Doto-ExtraBold": "https://github.com/ranieeere/Doto/blob/main/Doto-ExtraBold.ttf?raw=1",
+        "Doto-Black": "https://github.com/ranieeere/Doto/blob/main/Doto-Black.ttf",
+        "Doto_Rounded-Thin": "https://github.com/ranieeere/Doto/blob/main/Doto_Rounded-Thin.ttf?raw=1",
+        "Doto_Rounded-ExtraLight": "https://github.com/ranieeere/Doto/blob/main/Doto_Rounded-ExtraLight.ttf?raw=1",
+        "Doto_Rounded-Light": "https://github.com/ranieeere/Doto/blob/main/Doto_Rounded-Light.ttf?raw=1",
+        "Doto_Rounded-Regular": "https://github.com/ranieeere/Doto/blob/main/Doto_Rounded-Regular.ttf?raw=1",
+        "Doto_Rounded-SemiBold": "https://github.com/ranieeere/Doto/blob/main/Doto_Rounded-SemiBold?raw=1",
+        "Doto_Rounded-Bold": "https://github.com/ranieeere/Doto/blob/main/Doto_Rounded-Bold?raw=1",
+        "Doto_Rounded-ExtraBold": "https://github.com/ranieeere/Doto/blob/main/Doto_Rounded-ExtraBold.ttf?raw=1",
+        "Doto_Rounded-Black": "https://github.com/ranieeere/Doto/blob/main/Doto_Rounded-Black.ttf?raw=1"
+    }
+}

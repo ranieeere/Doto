@@ -2,7 +2,7 @@
 ## A Doto family pre-configured in JSON.
 
 ### Install:
-<https://github.com/ranieeere/Doto/blob/main/Doto-font.json>
+<https://raw.githubusercontent.com/ranieeere/Doto/refs/heads/main/Doto-font.json>
 
 _I used a Google Fonts (.tff files) and Google Fonts JSON (to take a .JSON files)._
 
